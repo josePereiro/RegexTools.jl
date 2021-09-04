@@ -1,5 +1,5 @@
 module RegexTools
 
-# Write your package code here.
+include("hex_escape.jl")
 
 end
